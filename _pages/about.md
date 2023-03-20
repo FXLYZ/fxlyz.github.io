@@ -26,7 +26,7 @@ I received my B.S. degree in Computer Science from Nankai University, China. I a
 
 # 📝 Preprinted Articles 
 
-- RelCLIP: RelCLIP: Dynamic Scene Graph Generation via Contrastive Language-Image Pre-training, **Zhitao Zeng**, Pengwen Dai, Xiaojun Jia Xuan Zhang, Yulu wang, Xiaotong Sun, Xiaochun Cao, **Under review in ICCV 2023 (IEEE International Conference on Computer Vision)** 
+- RelCLIP: RelCLIP: Dynamic Scene Graph Generation via Contrastive Language-Image Pre-training, **Zhitao Zeng**, Pengwen Dai, Xiaojun Jia, Xuan Zhang, Yulu wang, Xiaotong Sun, Xiaochun Cao, **Under review in ICCV 2023 (IEEE International Conference on Computer Vision)** 
 
 # 📖 Educations
 - *2021.09 - 2024.07 (now)*, School of Cyberspace Security, University of Chinese Academy of Sciences. 
