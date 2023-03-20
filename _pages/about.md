@@ -22,7 +22,7 @@ I received my B.S. degree in Computer Science from Nankai University, China. I a
 
 # 📝 Publications 
 
-- Cognition Guided Human-Object Relationship Detection, **Zhitao Zeng**, Pengwen Dai, Xuan Zhang, Xiaochun Cao, **Accepted by TIP 2023** 
+- Cognition Guided Human-Object Relationship Detection, **Zhitao Zeng**, Pengwen Dai, Xuan Zhang, Lei Zhang, Xiaochun Cao, **Accepted by TIP 2023** 
 
 # 📝 Preprinted Articles 
 
