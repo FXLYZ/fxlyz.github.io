@@ -22,21 +22,13 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet 
 My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
 
 
-# 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-
 # 📝 Publications 
 
-<div class='paper-box-text' markdown="1">
-
-[Cognition Guided Human-Object Relationship Detection] **Accepted by TIP 2023** 
-
+- Cognition Guided Human-Object Relationship Detection **Accepted by TIP 2023** 
 **Zhitao Zeng**, Pengwen Dai, Xuan Zhang, Xiaochun Cao
 
-</div>
-
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** 
+- [RelCLIP: RelCLIP: Dynamic Scene Graph Generation via Contrastive Language-Image Pre-training], **Under review in ICCV 2023** 
+**Zhitao Zeng**, Pengwen Dai, Xiaojun Jia Xuan Zhang, Yulu wang, Xiaotong Sun, Xiaochun Cao
 
 # 📖 Educations
 - *2019.06 - 2022.04 (now)*, School of Cyberspace Security, University of Chinese Academy of Sciences. 
