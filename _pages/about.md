@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I received my B.S. degree in Computer Science from Nankai University, China. I am now a M.S. student in University of Chinese Academy of Sciences, advised by Professor Xiaochun Cao. My research interests include computer vision, video analysis, action recognition, human-object relationship detection, dynamic scene graph generation, etc. I will graduate in June 2024. Currently, I am looking for applying the Ph.D. candidate of Autumn 2024. Feel free to connect if there are suitable opportunities!
+I received my B.S. degree in Computer Science from Nankai University, China. I am now a M.S. student in University of Chinese Academy of Sciences with **Professor Xiaochun Cao**. My research interests include computer vision, video analysis, action recognition, human-object relationship detection, dynamic scene graph generation, etc. I will graduate in June 2024. Currently, I am looking for applying the Ph.D. candidate of Autumn 2024. Feel free to connect if there are suitable opportunities!
 
 
 # 📝 Publications 
