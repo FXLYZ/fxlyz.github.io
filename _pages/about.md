@@ -30,9 +30,13 @@ I received my B.S. degree in Computer Science from Nankai University, China. I a
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TIP 2023</div><img src='/images/framework.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Cognition guided human-object relationship detection. **IEEE Transactions on Image Processing, 32:2468–2480, 2023.**](https://ieeexplore.ieee.org/document/10112623)
+Cognition guided human-object relationship detection. **IEEE Transactions on Image Processing, 32:2468–2480, 2023.**
 
 **Zhitao Zeng**, Pengwen Dai, Xuan Zhang, Lei Zhang, and Xiaochun Cao.
+
+[paper link: https://ieeexplore.ieee.org/document/10112623](https://ieeexplore.ieee.org/document/10112623)
+  
+[code link: https://github.com/zztao6/RPT](https://github.com/zztao6/RPT)
 
 </div>
 </div>
