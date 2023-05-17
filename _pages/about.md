@@ -23,10 +23,10 @@ I received my B.S. degree in Computer Science from Nankai University, China. I a
 # 📝 Publications 
 
 - **Zhitao Zeng**, Pengwen Dai, Xuan Zhang, Lei Zhang, and Xiaochun Cao. Cognition guided human-object relationship detection. **IEEE Transactions on Image Processing, 32:2468–2480, 2023.**
-![framework](/images/framework.png "Framework of propsed RPT")
-![results](/images/qualitative_results.png "Qualitative results")
 [paper link](https://ieeexplore.ieee.org/document/10112623)
 [code link](https://github.com/zztao6/RPT)
+![framework](/images/framework.png "Framework of propsed RPT")
+![results](/images/qualitative_results.png "Qualitative results")
 
 # 📝 Preprinted Articles 
 
