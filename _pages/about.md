@@ -34,9 +34,9 @@ Cognition guided human-object relationship detection. **IEEE Transactions on Ima
 
 **Zhitao Zeng**, Pengwen Dai, Xuan Zhang, Lei Zhang, and Xiaochun Cao.
 
-[paper link: https://ieeexplore.ieee.org/document/10112623](https://ieeexplore.ieee.org/document/10112623)
+[Paper Link: https://ieeexplore.ieee.org/document/10112623](https://ieeexplore.ieee.org/document/10112623)
   
-[code link: https://github.com/zztao6/RPT](https://github.com/zztao6/RPT)
+[Code Link: https://github.com/zztao6/RPT](https://github.com/zztao6/RPT)
 
 </div>
 </div>
