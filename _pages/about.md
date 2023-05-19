@@ -30,7 +30,7 @@ I received my B.S. degree in Computer Science from Nankai University, China. I a
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TIP 2023</div><img src='/images/framework.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-Cognition guided human-object relationship detection. **IEEE Transactions on Image Processing, 32:2468–2480, 2023.**
+Cognition guided human-object relationship detection. IEEE Transactions on Image Processing **(TIP)**, 32:2468–2480, 2023.
 
 **Zhitao Zeng**, Pengwen Dai, Xuan Zhang, Lei Zhang, and Xiaochun Cao.
 
@@ -41,12 +41,12 @@ Cognition guided human-object relationship detection. **IEEE Transactions on Ima
 </div>
 </div>
 
-# 📝 Preprinted Articles 
+# 📝 Preprints & Submissions
 
-- **Zhitao Zeng**, Pengwen Dai, Xiaojun Jia, Xuan Zhang, Yulu wang, Xiaotong Sun, Xiaochun Cao. RelCLIP: RelCLIP: Dynamic Scene Graph Generation via Contrastive Language-Image Pre-training.
-- **Zhitao Zeng**, Pengwen Dai, Xiaojun Jia, Jindong Gu, Sanyi Zhang, Yulu wang, Xiaochun Cao. Rel3D: Dynamic Scene Graph Generation via 3D Representation.
-- Sanyi Zhang, **Zhitao Zeng**, Xiaojun Jia, Guo-Jun Qi, Xiaochun Cao, Jie Zhou. Pointly-supervised Human Parsing.
-- Yulu Wang, Pengwen Dai, Xiaojun Jia, Xiaojun Jia, **Zhitao Zeng**, Rui Li, Xiaochun Cao. Hi-SIGIR: Hierachical Semantic-Guided Image-to-image Retrieval via Scene Graph.
+- **Zhitao Zeng**, Pengwen Dai, Xiaojun Jia, Xuan Zhang, Yulu wang, Xiaotong Sun, Xiaochun Cao. RelCLIP: RelCLIP: Dynamic Scene Graph Generation via Contrastive Language-Image Pre-training. Under Review by IEEE International Conference on Computer Vision **(ICCV)**, 2023.
+- **Zhitao Zeng**, Pengwen Dai, Xiaojun Jia, Jindong Gu, Sanyi Zhang, Yulu wang, Xiaochun Cao. Rel3D: Dynamic Scene Graph Generation via 3D Representation. Under Review by Conference on Neural Information Processing Systems **(NeurIPS)**, 2023.
+- Sanyi Zhang, **Zhitao Zeng**, Xiaojun Jia, Guo-Jun Qi, Xiaochun Cao, Jie Zhou. Pointly-supervised Human Parsing. Under Review by Conference on Neural Information Processing Systems **(NeurIPS)**, 2023.
+- Yulu Wang, Pengwen Dai, Xiaojun Jia, Xiaojun Jia, **Zhitao Zeng**, Rui Li, Xiaochun Cao. Hi-SIGIR: Hierachical Semantic-Guided Image-to-image Retrieval via Scene Graph. Under Review by ACM Multimedia **(ACM MM)**, 2023.
 
 # 📖 Educations
 - *2021.09 - 2024.07 (now)*, School of Cyberspace Security, University of Chinese Academy of Sciences. 
