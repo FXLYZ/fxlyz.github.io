@@ -41,7 +41,7 @@ Cognition guided human-object relationship detection. IEEE Transactions on Image
 </div>
 </div>
 
-# 📝 Preprints & Submissions
+# 📝 Preprints and Submissions
 
 - **Zhitao Zeng**, Pengwen Dai, Xiaojun Jia, Xuan Zhang, Yulu wang, Xiaotong Sun, Xiaochun Cao. RelCLIP: RelCLIP: Dynamic Scene Graph Generation via Contrastive Language-Image Pre-training. Under Review by IEEE International Conference on Computer Vision **(ICCV)**, 2023.
 - **Zhitao Zeng**, Pengwen Dai, Xiaojun Jia, Jindong Gu, Sanyi Zhang, Yulu wang, Xiaochun Cao. Rel3D: Dynamic Scene Graph Generation via 3D Representation. Under Review by Conference on Neural Information Processing Systems **(NeurIPS)**, 2023.
