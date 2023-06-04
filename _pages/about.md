@@ -43,10 +43,10 @@ Cognition guided human-object relationship detection. IEEE Transactions on Image
 
 # 📝 Preprints and Submissions
 
-- **Zhitao Zeng**, Pengwen Dai, Xiaojun Jia, Xuan Zhang, Yulu wang, Xiaotong Sun, Xiaochun Cao. RelCLIP: RelCLIP: Dynamic Scene Graph Generation via Contrastive Language-Image Pre-training. Under Review by IEEE International Conference on Computer Vision **(ICCV)**, 2023.
-- **Zhitao Zeng**, Pengwen Dai, Xiaojun Jia, Jindong Gu, Sanyi Zhang, Yulu wang, Xiaochun Cao. Rel3D: Dynamic Scene Graph Generation via 3D Representation. Under Review by Conference on Neural Information Processing Systems **(NeurIPS)**, 2023.
-- Sanyi Zhang, **Zhitao Zeng**, Xiaojun Jia, Guo-Jun Qi, Xiaochun Cao, Jie Zhou. Pointly-supervised Human Parsing. Under Review by Conference on Neural Information Processing Systems **(NeurIPS)**, 2023.
-- Yulu Wang, Pengwen Dai, Xiaojun Jia, Xiaojun Jia, **Zhitao Zeng**, Rui Li, Xiaochun Cao. Hi-SIGIR: Hierachical Semantic-Guided Image-to-image Retrieval via Scene Graph. Under Review by ACM Multimedia **(ACM MM)**, 2023.
+- **Zhitao Zeng**, Pengwen Dai, Xiaojun Jia, Xuan Zhang, Yulu wang, Xiaotong Sun, Xiaochun Cao. RelCLIP: RelCLIP: Dynamic Scene Graph Generation via Contrastive Language-Image Pre-training. In Peer Review, IEEE International Conference on Computer Vision **(ICCV)**, 2023.
+- **Zhitao Zeng**, Pengwen Dai, Xiaojun Jia, Jindong Gu, Sanyi Zhang, Yulu wang, Xiaochun Cao. Rel3D: Dynamic Scene Graph Generation via 3D Representation. In Peer Review, Conference on Neural Information Processing Systems **(NeurIPS)**, 2023.
+- Sanyi Zhang, **Zhitao Zeng**, Xiaojun Jia, Guo-Jun Qi, Xiaochun Cao, Jie Zhou. Pointly-supervised Human Parsing. In Peer Review, Conference on Neural Information Processing Systems **(NeurIPS)**, 2023.
+- Yulu Wang, Pengwen Dai, Xiaojun Jia, Xiaojun Jia, **Zhitao Zeng**, Rui Li, Xiaochun Cao. Hi-SIGIR: Hierachical Semantic-Guided Image-to-image Retrieval via Scene Graph. In Peer Review, ACM Multimedia **(ACM MM)**, 2023.
 
 # 📖 Educations
 - *2021.09 - 2024.07 (now)*, School of Cyberspace Security, University of Chinese Academy of Sciences. 
