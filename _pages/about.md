@@ -20,7 +20,7 @@ redirect_from:
 I received my B.S. degree in Computer Science from Nankai University, China. I am now a M.S. student in University of Chinese Academy of Sciences with **Professor Xiaochun Cao**. My research interests include computer vision, video analysis, action recognition, human-object relationship detection, dynamic scene graph generation, etc. I will graduate in June 2024. Currently, I am looking for applying the Ph.D. candidate of Autumn 2024. Feel free to connect if there are suitable opportunities!
 
 
-# 📝 Publications 
+# 📝 Publications & Preprints
 
 <!-- - **Zhitao Zeng**, Pengwen Dai, Xuan Zhang, Lei Zhang, and Xiaochun Cao. [Cognition guided human-object relationship detection. **IEEE Transactions on Image Processing, 32:2468–2480, 2023.**](https://ieeexplore.ieee.org/document/10112623)
 [code: https://github.com/zztao6/RPT](https://github.com/zztao6/RPT)
@@ -42,8 +42,6 @@ Cognition guided human-object relationship detection. IEEE Transactions on Image
 </div>
 </div>
 -->
-
-# 📝 Preprints and Submissions
 
 - **Zhitao Zeng**, Pengwen Dai, Xuan Zhang, Lei Zhang, Xiaochun Cao. Cognition Guided Human-Object Relationship Detection. IEEE Transactions on Image Processing (TIP), 32:2468–2480, 2023.
 - Yulu Wang, Pengwen Dai, Xiaojun Jia, **Zhitao Zeng**, Rui Li, Xiaochun Cao. Hi-SIGIR: Hierarchical Semantic-Guided Image-to-image Retrieval via Scene Graph. Accepted by ACM Multimedia (ACM MM), 2023.
