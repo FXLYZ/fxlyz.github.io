@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I received my B.S. degree in Computer Science from Nankai University (NKU), China. I am a M.S. student supervised with **Prof. Xiaochun Cao** in University of Chinese Academy of Sciences (CAS), China. I am also an internship student superivsed with **Prof. Song-chun Zhu** and **Dr. Zilong Zheng** in Beijing Institute of General Artificial Intelligence (BIAGI), China. I will graduate in June 2024. Currently, I am looking for applying the Ph.D. candidate of Autumn 2024. Feel free to connect if there are suitable opportunities!
+I received my B.S. degree in Computer Science from Nankai University (NKU), China. I am a M.S. student supervised with **Prof. Xiaochun Cao**(https://scholar.google.com/citations?user=PDgp6OkAAAAJ&hl=zh-CN&oi=ao) in University of Chinese Academy of Sciences (CAS), China. I am also an internship student superivsed with **Prof. Song-chun Zhu**(http://www.stat.ucla.edu/~sczhu/) and **Dr. Zilong Zheng**(https://zilongzheng.github.io) in Beijing Institute of General Artificial Intelligence (BIAGI), China. I will graduate in June 2024. Currently, I am looking for applying the Ph.D. candidate of Autumn 2024. Feel free to connect if there are suitable opportunities!
 
 My current research mainly fouces on **Embodied AI** including Large Language Model Guided Interaction, Learning, and Planing for Embodied AI, Real Scene Multi-modal Reasoning for Embodied AI. I am also interested in **Human-centric AI** including Huuman-Object Relationship Detection, Dynamic Human Action Understanding, Human Parsing.
 
@@ -45,7 +45,7 @@ Cognition guided human-object relationship detection. IEEE Transactions on Image
 </div>
 -->
 
-- **Zhitao Zeng**, Pengwen Dai, Xuan Zhang, Lei Zhang, Xiaochun Cao. Cognition Guided Human-Object Relationship Detection. IEEE Transactions on Image Processing (TIP), 32:2468–2480, 2023.
+- **Zhitao Zeng**, Pengwen Dai, Xuan Zhang, Lei Zhang, Xiaochun Cao. Cognition Guided Human-Object Relationship Detection. IEEE Transactions on Image Processing (TIP), 32:2468–2480, 2023.(https://ieeexplore.ieee.org/document/10112623)
 - Yulu Wang, Pengwen Dai, Xiaojun Jia, **Zhitao Zeng**, Rui Li, Xiaochun Cao. Hi-SIGIR: Hierarchical Semantic-Guided Image-to-image Retrieval via Scene Graph. Accepted by ACM Multimedia (ACM MM), 2023.
 - **Zhitao Zeng**, Pengwen Dai, Xiaojun Jia, Jindong Gu, Sanyi Zhang, Yulu wang, Xiaochun Cao. Rel3D: Dynamic Scene Graph Generation via 3D Representation. In Peer Review, Conference on Neural Information Processing Systems (NeurIPS), 2023.
 - **Zhitao Zeng**, Pengwen Dai, Xiaojun Jia, Yulu wang, Xiaochun Cao. On the Benefits of Knowledge Transfer and Synergistic Prediction for Dynamic Scene Graph Generation. In Peer Review, Thirty-Eighth AAAI Conference on Artificial Intelligence (AAAI), 2024.
