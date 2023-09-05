@@ -17,7 +17,9 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I received my B.S. degree in Computer Science from Nankai University, China. I am now a M.S. student in University of Chinese Academy of Sciences with **Professor Xiaochun Cao**. My research interests include computer vision, video analysis, action recognition, human-object relationship detection, dynamic scene graph generation, etc. I will graduate in June 2024. Currently, I am looking for applying the Ph.D. candidate of Autumn 2024. Feel free to connect if there are suitable opportunities!
+I received my B.S. degree in Computer Science from Nankai University (NKU), China. I am a M.S. student supervised with **Prof. Xiaochun Cao** in University of Chinese Academy of Sciences (CAS), China. I am also an internship student superivsed with **Prof. Song-chun Zhu** and **Dr. Zilong Zheng** in Beijing Institute of General Artificial Intelligence (BIAGI), China. I will graduate in June 2024. Currently, I am looking for applying the Ph.D. candidate of Autumn 2024. Feel free to connect if there are suitable opportunities!
+
+My current research mainly fouces on **Embodied AI** including Large Language Model Guided Interaction, Learning, and Planing for Embodied AI, Real Scene Multi-modal Reasoning for Embodied AI. I am also interested in **Human-centric AI** including Huuman-Object Relationship Detection, Dynamic Human Action Understanding, Human Parsing.
 
 
 # 📝 Publications & Preprints
@@ -52,5 +54,5 @@ Cognition guided human-object relationship detection. IEEE Transactions on Image
 
 
 # 📖 Educations
-- *2021.09 - 2024.07 (now)*, School of Cyberspace Security, University of Chinese Academy of Sciences. 
-- *2017.09 - 2021.07*, School of Computer Science, Nankai University. 
+- *2021.09 - 2024.06 (now)*, School of Cyberspace Security, University of Chinese Academy of Sciences. 
+- *2017.09 - 2021.06*, School of Computer Science, Nankai University. 
