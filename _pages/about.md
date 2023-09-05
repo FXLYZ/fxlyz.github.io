@@ -22,6 +22,7 @@ I received my B.S. degree in Computer Science from Nankai University, China. I a
 
 # 📝 Publications 
 
+<!--
 <!-- - **Zhitao Zeng**, Pengwen Dai, Xuan Zhang, Lei Zhang, and Xiaochun Cao. [Cognition guided human-object relationship detection. **IEEE Transactions on Image Processing, 32:2468–2480, 2023.**](https://ieeexplore.ieee.org/document/10112623)
 [code: https://github.com/zztao6/RPT](https://github.com/zztao6/RPT)
 ![framework](/images/framework.png)
@@ -40,8 +41,8 @@ Cognition guided human-object relationship detection. IEEE Transactions on Image
 
 </div>
 </div>
-
 # 📝 Preprints and Submissions
+-->
 
 - **Zhitao Zeng**, Pengwen Dai, Xuan Zhang, Lei Zhang, Xiaochun Cao. Cognition Guided Human-Object Relationship Detection. IEEE Transactions on Image Processing (TIP), 32:2468–2480, 2023.
 - Yulu Wang, Pengwen Dai, Xiaojun Jia, **Zhitao Zeng**, Rui Li, Xiaochun Cao. Hi-SIGIR: Hierarchical Semantic-Guided Image-to-image Retrieval via Scene Graph. Accepted by ACM Multimedia (ACM MM), 2023.
