@@ -54,5 +54,5 @@ Cognition guided human-object relationship detection. IEEE Transactions on Image
 
 
 # 📖 Educations
-- *2021.09 - 2024.06 (now)*, School of Cyberspace Security, University of Chinese Academy of Sciences. 
-- *2017.09 - 2021.06*, School of Computer Science, Nankai University. 
+- *2021.09 - 2024.06 (now)*, Artifical Intelligence, University of Chinese Academy of Sciences. 
+- *2017.09 - 2021.06*, Computer Science & Pharmacy, Nankai University. 
