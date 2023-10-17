@@ -19,7 +19,7 @@ redirect_from:
 
 I received my B.S. degree in Computer Science from Nankai University (NKU), China. I am a M.S. student supervised with [**Prof. Xiaochun Cao**](https://scholar.google.com/citations?user=PDgp6OkAAAAJ&hl=zh-CN&oi=ao) in University of Chinese Academy of Sciences (CAS), China. I am also an internship student superivsed with [**Prof. Song-chun Zhu**](http://www.stat.ucla.edu/~sczhu/) and [**Dr. Zilong Zheng**](https://zilongzheng.github.io) in Beijing Institute of General Artificial Intelligence (BIAGI), China. I will graduate in June 2024. Currently, I am looking for applying the Ph.D. candidate of Autumn 2024. Feel free to connect if there are suitable opportunities!
 
-My current research mainly fouces on **Embodied AI** including Large Language Model Guided Interaction, Learning, and Planing for Embodied AI, Real Scene Multi-modal Reasoning for Embodied AI. I am also interested in **Human-centric AI** including Huuman-Object Relationship Detection, Dynamic Human Action Understanding, Human Parsing.
+My future research will be dedicated to applying **AI for biology** and **AI for medical**, with a particular focus on the applications of **large language models (LLMs)** in other domains. In addition, I am also interested in Large Language Model Guided Interaction, Learning, and Planing for **Robotic Agent*.
 
 
 # 📝 Publications & Preprints
