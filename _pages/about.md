@@ -19,7 +19,7 @@ redirect_from:
 
 I received my Bachelor degree in Computer Science from Nankai University (NKU). I received my Master degree from University of Chinese Academy of Sciences (CAS), advised by [**Prof. Xiaochun Cao**](https://scholar.google.com/citations?user=PDgp6OkAAAAJ&hl=zh-CN&oi=ao). Currently, I am looking for applying the Ph.D. candidate of Autumn 2024. Feel free to connect if there are suitable opportunities!
 
-My future research will be dedicated to applying **AI for Medicine (AIM)**, with a particular focus on the applications of **Multi-modal Large Language Models (LLMs)** in healthcare.
+My future research will be dedicated to applying **AI for Medicine (AIM)**, with a particular focus on the applications of **Multi-modal Large Language Models (MM-LLMs)** in healthcare.
 
 
 # 📝 Publications & Preprints
