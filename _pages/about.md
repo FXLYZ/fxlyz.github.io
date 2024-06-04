@@ -24,28 +24,7 @@ My future research will be dedicated to applying **AI for Medicine (AIM)**, with
 
 # 📝 Publications & Preprints
 
-<!-- - **Zhitao Zeng**, Pengwen Dai, Xuan Zhang, Lei Zhang, and Xiaochun Cao. [Cognition guided human-object relationship detection. **IEEE Transactions on Image Processing, 32:2468–2480, 2023.**](https://ieeexplore.ieee.org/document/10112623)
-[code: https://github.com/zztao6/RPT](https://github.com/zztao6/RPT)
-![framework](/images/framework.png)
-![results](/images/qualitative_results.png) -->
-
-<!--
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TIP 2023</div><img src='/images/framework.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-Cognition guided human-object relationship detection. IEEE Transactions on Image Processing **(IEEE TIP)**, 32:2468–2480, 2023.
-
-**Zhitao Zeng**, Pengwen Dai, Xuan Zhang, Lei Zhang, and Xiaochun Cao.
-
-[Paper Link: https://ieeexplore.ieee.org/document/10112623](https://ieeexplore.ieee.org/document/10112623)
-  
-[Code Link: https://github.com/zztao6/RPT](https://github.com/zztao6/RPT)
-
-</div>
-</div>
--->
-
-- [**Zhitao Zeng**, Pengwen Dai, Xuan Zhang, Lei Zhang, Xiaochun Cao. Cognition Guided Human-Object Relationship Detection. IEEE Transactions on Image Processing (TIP), 32:2468–2480, 2023.](https://ieeexplore.ieee.org/document/10112623)
+- **Zhitao Zeng**, Pengwen Dai, Xuan Zhang, Lei Zhang, Xiaochun Cao. Cognition Guided Human-Object Relationship Detection. IEEE Transactions on Image Processing (TIP), 32:2468–2480, 2023. [Link.](https://ieeexplore.ieee.org/document/10112623)
 - Yulu Wang, Pengwen Dai, Xiaojun Jia, **Zhitao Zeng**, Rui Li, Xiaochun Cao. Hi-SIGIR: Hierachical Semantic-Guided Image-to-image Retrieval via Scene Graph. Proceedings of the 31st ACM International Conference on Multimedia (ACM MM), 2023.
 - **Zhitao Zeng**, Pengwen Dai, Xiaojun Jia, Jindong Gu, Sanyi Zhang, Xiaochun Cao. Rel3D: Dynamic Scene Graph Generation via 3D Representation. In Peer Review.
 - **Zhitao Zeng**, Pengwen Dai, Xiaojun Jia, Xiaochun Cao. On the Benefits of Knowledge Transfer and Synergistic Prediction for Dynamic Scene Graph Generation. In Peer Review.
