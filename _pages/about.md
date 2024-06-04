@@ -47,12 +47,11 @@ Cognition guided human-object relationship detection. IEEE Transactions on Image
 
 - [**Zhitao Zeng**, Pengwen Dai, Xuan Zhang, Lei Zhang, Xiaochun Cao. Cognition Guided Human-Object Relationship Detection. IEEE Transactions on Image Processing (TIP), 32:2468–2480, 2023.](https://ieeexplore.ieee.org/document/10112623)
 - Yulu Wang, Pengwen Dai, Xiaojun Jia, **Zhitao Zeng**, Rui Li, Xiaochun Cao. Hi-SIGIR: Hierarchical Semantic-Guided Image-to-image Retrieval via Scene Graph. Accepted by ACM Multimedia (ACM MM), 2023.
-- **Zhitao Zeng**, Pengwen Dai, Xiaojun Jia, Jindong Gu, Sanyi Zhang, Yulu wang, Xiaochun Cao. Rel3D: Dynamic Scene Graph Generation via 3D Representation. In Peer Review, Conference on Neural Information Processing Systems (NeurIPS), 2023.
-- **Zhitao Zeng**, Pengwen Dai, Xiaojun Jia, Yulu wang, Xiaochun Cao. On the Benefits of Knowledge Transfer and Synergistic Prediction for Dynamic Scene Graph Generation. In Peer Review, Thirty-Eighth AAAI Conference on Artificial Intelligence (AAAI), 2024.
-- Sanyi Zhang, **Zhitao Zeng**, Xiaojun Jia, Guo-Jun Qi, Xiaochun Cao, Jie Zhou. Pointly-supervised Human Parsing. In Peer Review, Conference on Neural Information Processing Systems (NeurIPS), 2023.
-- Pengwen Dai, Xunquan Tong, Rui Wang, **Zhitao Zeng**, Yulu Wang, Xiaochun Cao. Scale-robustness Sequential Recurrence Self-attention for Single-point Scene Text Spotting. In Peer Review, Thirty-Eighth AAAI Conference on Artificial Intelligence (AAAI), 2024.
+- **Zhitao Zeng**, Pengwen Dai, Xiaojun Jia, Jindong Gu, Sanyi Zhang, Xiaochun Cao. Rel3D: Dynamic Scene Graph Generation via 3D Representation. In Peer Review.
+- **Zhitao Zeng**, Pengwen Dai, Xiaojun Jia, Xiaochun Cao. On the Benefits of Knowledge Transfer and Synergistic Prediction for Dynamic Scene Graph Generation. In Peer Review.
+- Sanyi Zhang, **Zhitao Zeng**, Xiaojun Jia, Guo-Jun Qi, Xiaochun Cao, Jie Zhou. Pointly-supervised Human Parsing. In Peer Review.
 
 
 # 📖 Educations
-- *2021.09 - 2024.06 (now)*, Artifical Intelligence, University of Chinese Academy of Sciences. 
-- *2017.09 - 2021.06*, Computer Science & Pharmacy, Nankai University. 
+- *2021.09 - 2024.07*, Artifical Intelligence, University of Chinese Academy of Sciences. 
+- *2017.09 - 2021.07*, Computer Science, Nankai University. 
